@@ -1,1 +1,1 @@
-{"functions":{"api/*.js":{"runtime":"nodejs22.x","includeFiles":["private/ebook.pdf"]}},"headers":[{"source":"/api/download","headers":[{"key":"Cache-Control","value":"private, no-store"}]}]}
+{"functions":{"api/*.js":{"runtime":"nodejs22.x","includeFiles":"private/ebook.pdf"}},"headers":[{"source":"/api/download","headers":[{"key":"Cache-Control","value":"private, no-store"}]}]}
