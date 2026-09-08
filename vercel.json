@@ -1,1 +1,1 @@
-{"functions":{"api/*.js":{"includeFiles":"private/ebook.pdf"}},"headers":[...]}
+{"functions":{"api/*.js":{"includeFiles":"private/ebook.pdf"}},"headers":[{"source":"/api/download","headers":[{"key":"Cache-Control","value":"private, no-cache"}]}]}
